@@ -1,66 +1,56 @@
-<br clear="both">
+<!-- Profile README.md -->
 
-<div align="center">
-  <img height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzI4Yjl4dGxxNGUwMDJxNnVtajVtN256YW1sbW4zdHIxcnVtdGVoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LKvHJSPgCj4BjF1F5e/giphy.gif"  />
-</div>
+<h1 align="center">🌟Tarun Muddana — aka SilverShadowHeart 🌟</h1>
 
-###
+<p align="center">
+  <em>AI | ML Enthusiast · Open Source Developer · Problem Solver from India 🇮🇳</em>
+</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SilverShadowHeart.SilverShadowHeart&"  />
-</div>
+---
 
-###
+## 🔍 About Me
 
-<h1 align="center">hey there 👋</h1>
+- 👋 Hello, I’m **Tarun Muddana** (aka **SilverShadowHeart**) from **India**  
+- 🔭 Working on the **SILVER** project series  
+- 🤝 Looking to collaborate on **AI / ML** based projects  
+- 🌱 Currently learning **AI, ML, and Deep Learning**
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 🛠 Tech Stack
 
-###
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
-<p align="left">I'm Tarun Muddana (aka. SilverShadowHeart) from India<br><br>- 🔭 I’m a student<br>- 📚 I'm currently learning ML/DL</p>
+---
 
-###
+## 📈 GitHub Stats
 
-<h3 align="left">🛠 Language and tools</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SilverShadowHeart&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilverShadowHeart&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
+</p>
 
-###
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SilverShadowHeart&theme=chartreuse-dark&hide_border=false" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SilverShadowHeart&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=SilverShadowHeart&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
